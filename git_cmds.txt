@@ -1,0 +1,5 @@
+git status 
+
+git init : makes out folder git-repo
+
+git add . > add all new files in the repo/dir 
